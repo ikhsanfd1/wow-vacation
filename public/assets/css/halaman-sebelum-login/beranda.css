@@ -1,0 +1,17 @@
+
+body {
+    background-color: #F7F7F7;
+}
+
+.navbar1 {
+    background-color: #FCE8E9;
+}
+
+
+.aktif {
+    border-bottom: 2px solid rgba(242, 100, 25, 1);
+}
+
+.nonaktif {
+    color:rgb(128, 127, 127);
+}
